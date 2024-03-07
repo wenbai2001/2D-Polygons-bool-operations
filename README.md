@@ -1,2 +1,4 @@
 # 2D-Polygons-bool-operations
-Using OpenFlipper to perform intersection, union, and difference operations on 2D Polygons
+OpenFlipper Plugin  
+
+Perform intersection, union, and difference operations on 2D Polygons
